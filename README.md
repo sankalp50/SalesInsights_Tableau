@@ -1,1 +1,1 @@
-# SalesInsights_Tableau
+Sales Insights Dashboard
